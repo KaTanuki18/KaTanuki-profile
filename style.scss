@@ -197,9 +197,9 @@ body {
                 }
             }
 
-            &.blue {
-                background: linear-gradient(45deg, #3b5998, #0078d7);
-                box-shadow: 0 4px 30px rgba(43, 98, 169, 0.5);
+            &.orange {
+                background: linear-gradient(45deg, #0695FF, #A334FA, #FF6968);
+                box-shadow: 0 4px 30px rgba(88, 174, 255, 0.479);
 
                 &:hover {
                     box-shadow: 0 7px 30px rgba(19, 127, 212, 0.35);
