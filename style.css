@@ -14,7 +14,7 @@ body::before {
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background: url("bg.png") no-repeat left;
+  background: url("bg2.jpg") no-repeat left;
   background-size: 150%;
 }
 
