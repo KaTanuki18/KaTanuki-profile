@@ -155,6 +155,14 @@ body {
                 background: linear-gradient(45deg, #ff6190, #ee9898);
                 box-shadow: 0 4px 30px rgba(255, 32, 181, 0.6);
             }
+            &.patreon {
+                background: linear-gradient(-45deg, #8f8f8f, #080808);
+                box-shadow: 0 4px 30px rgba(141, 141, 141, 0.6);
+            }
+            &.pixiv {
+                background: linear-gradient(-45deg, #0096FA, #0096FA);
+                box-shadow: 0 4px 30px rgba(141, 141, 141, 0.6);
+            }
         }
     }
 
